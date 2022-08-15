@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="500" height="500" viewBox="0 0 500 500"
+xmlns="http://www.w3.org/2000/svg">
+<rect x="200" y="200" width="100" height="100" rx="10" ry="10"
+style="fill:gray;stroke:black"/>
+<ellipse cx="203" cy="295" rx="3" ry="3" style="fill:green;stroke:black;stroke-width:1px"/>
+<rect x="206" y="288" width="20" height="10" style="fill:brown;stroke:black"/>
+<rect x="226" y="288" width="20" height="10" style="fill:brown;stroke:black"/>
+<rect x="246" y="288" width="20" height="10" style="fill:brown;stroke:black"/>
+<rect x="266" y="288" width="20" height="10" style="fill:brown;stroke:black"/>
+<rect x="200" y="277" width="20" height="10" style="fill:brown;stroke:black"/>
+<rect x="232" y="279" width="16" height="8" style="fill:brown;stroke:black"/>
+<rect x="234" y="273" width="12" height="6" style="fill:brown;stroke:black"/>
+<rect x="238" y="271" width="4" height="2" style="fill:brown;stroke:black"/>
+<rect x="236" y="267" width="8" height="4" style="fill:brown;stroke:black"/>
+<rect x="234" y="261" width="12" height="6" style="fill:brown;stroke:black"/>
+</svg>
